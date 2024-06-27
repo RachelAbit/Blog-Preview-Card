@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RachelAbit/Blog-Preview-Card)
+- Solution URL: [https://github.com/RachelAbit/Blog-Preview-Card]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,7 +56,7 @@ and
 
 ### Continued development
 
-For improvement, I want to learn about:
+For improvement, I want to learn more about:
 - CSS Frameworks
 - CSS Animation
 - CSS Functions
