@@ -63,7 +63,7 @@ For improvement, I want to learn more about:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp) - This helped me for using clamp. I really liked this function and I will use it.
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/clamp] - This helped me for using clamp. I really liked this function and I will use it.
 
 ## Author
 
